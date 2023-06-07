@@ -1,6 +1,6 @@
 dice_num=$(( RANDOM%7  ))
 
-echo "Random number: " $dice_num
+echo "Random number:  " $dice_num
 
 case $dice_num in
 
